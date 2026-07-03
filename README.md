@@ -225,7 +225,7 @@ The Random Forest classifier achieved a test ROC-AUC of approximately **0.7**. A
 
 ## PCA Projection
 
-![PCA Projection](./figures/PCA1vsPCA2%20plot.png)
+![PCA Projection](./figures/PCA1vsPCA2.png)
 
 ---
 
@@ -244,7 +244,7 @@ The Random Forest classifier achieved a test ROC-AUC of approximately **0.7**. A
 
 ## Principal Component 1 Variable Contributions
 
-![PC1 Contributions](./figures/PC1_Contribution%20Plot.png)
+![PC1 Contributions](./figures/PC1_ContributionPlot.png)
 
 ---
 
@@ -268,7 +268,7 @@ The Random Forest classifier achieved a test ROC-AUC of approximately **0.7**. A
 
 ## ROC Curve of the Final Model
 
-![ROC Curve](./figures/ROC%Curve.png)
+![ROC Curve](./figures/ROC%20Curve.png)
 
 # Repository Structure
 
