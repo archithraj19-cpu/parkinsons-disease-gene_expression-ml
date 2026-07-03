@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+
+.Rproj.user/
+
+.DS_Store
+Thumbs.db
+# Large project files
+data/GSE99039_series_matrix.txt
+models/ml_pipeline_objects.rds
